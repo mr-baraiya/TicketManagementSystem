@@ -50,3 +50,5 @@ wwwroot/
 
 # npm packages
 node_modules/
+
+TicketManagementSystemAPI/appsettings.Development.json
